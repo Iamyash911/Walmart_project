@@ -120,4 +120,5 @@ This project is an end-to-end data analysis solution designed to extract critica
 - **Data Source**: Kaggle’s Walmart Sales Dataset
 - **Inspiration**: Walmart’s business case studies on sales and supply chain optimization.
 
+## Builder - Yash TAILOR
 ---
